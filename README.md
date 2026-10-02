@@ -11,7 +11,8 @@ I mainly made this package for my own Raspberry Pi / GNOME setup, but it may als
 Download the `.deb` package and install it with:
 
 ```bash
-sudo apt install ./resources_1.10.2-1~deb13_arm64.deb
+wget -O install-resources.deb 'https://github.com/wobbo/gnome-resources/releases/download/v1.10/resources_1.10.2-1.deb13_arm64.deb'
+sudo apt install ./install-resources.deb
 ```
 
 After installation, open **Resources** from the GNOME application menu or run:
