@@ -2,9 +2,9 @@
 
 A Debian 13 ARM64 build of [Resources](https://gitlab.gnome.org/GNOME/Incubator/resources), the GNOME system monitor.
 
-<img alt="image" src="https://github.com/user-attachments/assets/95df6a8e-bf23-4f2e-b543-22c404bc0acd" />
-
 This build is based on **Resources 1.10.2** and is adapted to work with **libadwaita 1.7**, as included with Debian 13.
+
+<img alt="image" src="https://github.com/user-attachments/assets/95df6a8e-bf23-4f2e-b543-22c404bc0acd" />
 
 I mainly made this package for my own Raspberry Pi / GNOME setup, but it may also be useful for other Debian 13 ARM64 users.
 
